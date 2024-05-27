@@ -1,16 +1,15 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é Alessandro Silva 
 
-<!--
-**alessandro3332/alessandro3332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na Alura
 
-Here are some ideas to get you started:
+- Estou me desenvolvendo na linguagem JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+
+@estudant4x@gmail.com
+
+
+![](https://media.tenor.com/JFgPOkw8Od4AAAAM/rain-duck.gif)
